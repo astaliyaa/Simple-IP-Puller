@@ -5,7 +5,7 @@
       "company": {
         "domain": "jiafei-sexy-products-shop.weeblysite.com",
         "name": "Jiafei's Product Factory",
-        "type": "cvm"
+        "type": "isp"
       },
       "connection": {
         "domain": "jiafei-sexy-products-shop.weeblysite.com",
@@ -21,7 +21,7 @@
         "longitude": 7.9836287
       },
       "time_zone": {
-        "abbreviation": "CVM"
+        "abbreviation": "CET"
       }
     }
   ]
