@@ -1,6 +1,8 @@
 # Simple-IP-Puller
 The name sums it up pretty well
 
+to use this project u need to get an api key on [ipregistry](https://dashboard.ipregistry.co/signup)
+
 Disclaimer, index.html is an edited version of the Facebook login page. This project is for educational purposes ONLY! (but who cares do what you want😘)
 also if u use this uhm idk credit me ig but i also dont rly care 💀
 
