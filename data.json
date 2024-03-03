@@ -1,0 +1,28 @@
+{
+  "ip-info": [
+    {
+      "ip": "uh.mno.tha.nks",
+      "company": {
+        "domain": "jiafei-sexy-products-shop.weeblysite.com",
+        "name": "Jiafei's Product Factory",
+        "type": "cvm"
+      },
+      "connection": {
+        "domain": "jiafei-sexy-products-shop.weeblysite.com",
+        "organization": "Jiafei's Product Factory"
+      },
+      "location": {
+        "continent": "Europe",
+        "country": "Germany",
+        "region": "Rheinland-Pfalz",
+        "city": "Neidenfels",
+        "postal": "67468",
+        "latitude": 49.4186993,
+        "longitude": 7.9836287
+      },
+      "time_zone": {
+        "abbreviation": "CVM"
+      }
+    }
+  ]
+}
